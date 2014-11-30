@@ -1,0 +1,4 @@
+permalink: '/articles/:title/'
+base: http://designseedandco.com/
+name: 'Design Seed & Co'
+author: Noa Tranter et al
